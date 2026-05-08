@@ -23,8 +23,8 @@ Este repositorio contiene el analisis para evaluar el comportamiento de los clie
 - Analisis ejecutivo con recomendaciones.
 
 ## Ejecucion del notebook
+- Abrir carpeta
 - Abrir el el archivo `ipynb` en Github
-- 
 
 ## Reproduccion
 - Abrir Notebook
